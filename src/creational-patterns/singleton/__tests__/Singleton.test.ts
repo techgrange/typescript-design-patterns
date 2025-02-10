@@ -1,4 +1,4 @@
-import { Singleton } from "./Singleton";
+import { Singleton } from "../Singleton";
 
 describe("Singleton", () => {
   it("should always return the same instance", () => {
