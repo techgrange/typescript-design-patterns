@@ -9,4 +9,8 @@ export class Singleton {
     }
     return Singleton.instance;
   }
+
+  public someMethod() {
+    console.log("Hello World");
+  }
 }

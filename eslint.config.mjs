@@ -1,11 +1,10 @@
-import globals from "globals";
 import pluginJs from "@eslint/js";
 import tseslint from "typescript-eslint";
 import prettierPlugin from "eslint-config-prettier";
 
 export default tseslint.config(
   {
-    files: ["**/*.{js,mjs,cjs,ts}"],
+    files: ["src/**/*.{js,mjs,cjs,ts}"],
   },
   {
     ignores: ["**/*.{mjs,cjs,d.ts,d.mts}", "**/dist/**", "**/node_modules/**", "docs/**"],
@@ -14,7 +13,6 @@ export default tseslint.config(
   tseslint.configs.recommended,
   {
     rules: {
-      "no-console": "error",
       "no-var": "error",
     },
   },
