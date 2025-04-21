@@ -18,3 +18,5 @@ In addition, it defines a common vocabulary that helps developers communicate mo
 > - Design patterns aren't the same as algorithms. Algorithms are more like step-by-step instrucitons that help you get a specific task done.
 > - Use them when it **truly** helps, not just because it sounds fancy.
 > - It’s always better to focus on writing clean, understandable code first.
+
+## Taxonomy of Patterns: A Classification Overview
