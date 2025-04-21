@@ -8,4 +8,9 @@ ReactJS makes use of design patterns like Composite, Observer, Factory, and Stra
 In this guide, we’ll walk you through classic and modern design patterns, as well as the SOLID principles. We’ll explain them in a clear, simple way and show you how they’re used in real-world projects. It’s designed to be a go-to reference you can return to whenever you need to refresh your ideas, and rocket your problem-solving and software design skills to the moon!
 
 ## What's a design pattern?
-As it’s name suggests, it’s a blueprint or a programming template that you can customize to solve a commonly occurring problem in software design, particularly in the context of object-oriented programming (OOP). Other, prefer to describe them as reusable solutions to the most recurring problems that come up in software design.
+As its name suggests, a design pattern is like a blueprint or programming template that you can use and customize to solve commonly occurring problems in software design.
+
+A design pattern isn’t a one-size-fits-all solution, but more of a helpful guide that shows you how others have tackled similar challenges before. Think of it as a reusable strategy for handling situations that come up often, especially in object-oriented programming (OOP).
+
+In addition, it defines a common vocabulary that helps developers communicate more clearly and efficiently. By giving names to recurring design solutions, design patterns make it easier for teams to discuss complex concepts without needing lengthy explanations.
+
